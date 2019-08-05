@@ -1,7 +1,8 @@
-.taskcompleted {
-  text-decoration: line-through;
+p {
+  color: black;
 }
 
-.todo-list {
-  padding: 15px;
+.taskcompleted {
+  color: crimson;
+  text-decoration: line-through;
 }
