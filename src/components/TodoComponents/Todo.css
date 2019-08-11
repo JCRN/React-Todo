@@ -1,0 +1,8 @@
+p {
+  color: black;
+}
+
+.taskcompleted {
+  color: crimson;
+  text-decoration: line-through;
+}
